@@ -20,7 +20,7 @@ body {
 }
 
 .container {
-  background-color: rgba(245, 245, 245, 0.758);
+  background-color: rgba(245, 245, 245, 0.619);
   border-radius: 10px;
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1), 0 6px 6px rgba(0, 0, 0, 0.1);
   padding: 50px 20px;
@@ -40,10 +40,15 @@ h3 {
   font-size: 30px;
   letter-spacing: 1px;
   line-height: 40px;
-  margin: 50px auto;
+  margin: 5px auto;
   max-width: 600px;
 }
 
+p#joketext {
+  color: rgba(0, 0, 0, 0.619);
+  font-size: 30px;
+
+}
 .btn {
   background-color: rgba(64, 107, 47, 0.826);
   color: #fff;
